@@ -1,0 +1,50 @@
+articleNo : 매물번호
+articleName : 매물이름
+articleStatus : 매물 상태
+realEstateTypeCode : 대분류코드
+realEstateTypeName : 매물 대분류
+articleRealEstateTypeCode : 매물 타입코드
+articleRealEstateTypeName : 매물 타입 
+tradeTypeCode : 매매형식 코드
+tradeTypeName : 매매형식
+verificationTypeCode : 
+floorInfo : 층 정보
+rentPrc : 임대료
+priceChangeState : 가격 변경 상태
+isPriceModification : 가격 수정 여부
+dealOrWarrantPrc : 보증금 or 매매가
+area1 : 대지면적(m2)
+area2 : 연면적(m2)
+direction : ?
+articleConfirmYmd : 확인일자
+representativeImgUrl : 이미지 Url
+representativeImgTypeCode : 대표 이미지 유형 코드
+representativeImgThumb : ?
+siteImageCount : 이미지 갯수
+articleFeatureDesc : 매물특징
+tagList : tag 리스트
+buildingName :건축물 용도 
+sameAddrCnt : 동일 주소 갯수
+sameAddrDirectCnt : 동일 매물 갯수
+sameAddrMaxPrc : 동일 매물 최고가
+sameAddrMinPrc : 동일 매물 최저가
+cpid : 매물 출처 id
+cpName : 매물 출처 이름
+cpPcArticleUrl : 매물 출처 Url
+cpPcArticleBridgeUrl : ?
+cpPcArticleLinkUseAtArticleTitleYn : ?
+cpPcArticleLinkUseAtCpNameYn : ?
+cpMobileArticleUrl : 모바일 매물 url
+cpMobileArticleLinkUseAtArticleTitleYn : 
+cpMobileArticleLinkUseAtCpNameYn : 
+latitude : 위도
+longitude : 경도
+isLocationShow : 위치 노출 여부
+realtorName : 부동산 이름
+realtorId : 부동산 id
+tradeCheckedByOwner : 소유자 확인 여부
+isDirectTrade : 직거래 여부
+isInterest	: 이자 여부
+isComplex : ?
+detailAddress : 상세 주소
+detailAddressYn : 상세주소 존재 여부

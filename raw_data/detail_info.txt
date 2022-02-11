@@ -1,0 +1,67 @@
+articleNo : 매물번호
+articleName : 매물이름
+articleSubName : 매물 부제
+cpId : 매물 출처 id
+cortarNo : 법정동코드
+tradeBuildingTypeCode : 건물 종류 코드
+exposeStartYMD : 공개 시작 일자
+exposeEndYMD : 공개 종료 일자
+articleConfirmYMD	: 매물 등록 일자
+tradeCompleteYN : 거래 완료 여부
+totalDongCount : ?
+buildingTypeName : 매물 종류
+articleStatusCode : 매물 상태
+articleTypeCode	
+realestateTypeCode	
+realestateTypeName	
+tradeTypeCode	
+tradeTypeName	
+verificationTypeCode	
+verificationTypeName	
+applyYN	
+directTradeYN	
+mapLocationIndicationYn	
+latitude	
+longitude	
+pnu	
+cityNo	
+cityName	
+divisionName	
+sectionName	
+realtorId	
+walkingTimeToNearSubway	
+grandPlanList	
+detailAddress	
+etcAddress	
+exposureAddress	
+virtualAddressYn	
+roomCount	
+bathroomCount	
+householdCount	
+moveInTypeCode	
+moveInTypeName	
+moveInPossibleYmd	
+monthlyManagementCost	
+buildingName	
+buildingTypeCode	
+articleFeatureDescription	
+detailDescription	
+parkingCount	
+parkingPossibleYN	
+duplexYN	
+floorLayerName	
+hasBuildingUnitInfo	
+lawUsage	
+tagList	
+isInterest	
+isFalseHoodDeclared	
+isBlockFalseHood	
+detailAddressYn	
+isComplex	
+isOwnerTradeCompleted	
+currentUsage	
+recommendUsage	
+electricPowerTypeCode	
+electricPowerTypeName	
+moveInDiscussionPossibleYN	
+jibunAddressExposureYn
